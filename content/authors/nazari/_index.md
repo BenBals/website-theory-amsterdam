@@ -3,9 +3,9 @@ title: Yasamin Nazari
 lastname: Nazari
 role: Assistant Professor
 interests:
-  - Graph algorithms
-  - Dynamic algorithms
-  - Distributed and Parallel algorithms
+  - graph algorithms
+  - dynamic algorithms
+  - distributed and parallel algorithms
 social:
   - icon: link
     icon_pack: fas
