@@ -29,5 +29,8 @@ interests:
   - complexity theory
   - quantum cryptography
   - quantum communication
-
 ---
+
+## About Florian:
+
+Florian Speelman is an assistant professor at the University of Amsterdam and QuSoft. He performed his PhD research at the Centrum Wiskunde & Informatica in Amsterdam, under the supervision of Harry Buhrman, and was a post-doctoral researcher at QMATH in Copenhagen and CWI Amsterdam.
