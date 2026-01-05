@@ -16,6 +16,7 @@ organizations:
     url: https://ivi.uva.nl/
 superuser: false
 user_groups:
+  - Guests
   - UvA Informatics Institute
 ---
 
