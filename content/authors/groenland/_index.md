@@ -15,7 +15,7 @@ organizations:
     url: https://qusoft.org/
 superuser: false
 user_groups:
-  - Scientific Staff
+  - Permanent Members
   - UvA Informatics Institute
 
 interests:

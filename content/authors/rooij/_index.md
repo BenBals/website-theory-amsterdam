@@ -16,7 +16,7 @@ organizations:
     url: https://ivi.uva.nl/
 superuser: false
 user_groups:
-  - Scientific Staff
+  - Permanent Members
   - UvA Informatics Institute
 
 interests:
