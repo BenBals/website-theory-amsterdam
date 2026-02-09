@@ -25,7 +25,7 @@ email: ""
 superuser: false
 user_groups:
   - PhD Students
-  - CWI
+  - CWI Algorithms and Complexity
   - QuSoft
 highlight_name: false
 ---
