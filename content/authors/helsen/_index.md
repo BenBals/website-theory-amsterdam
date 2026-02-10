@@ -7,7 +7,7 @@ interests:
   - quantum information theory
 social:
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/jonas-helsen-026506b4/
   - icon: envelope
     icon_pack: fas
